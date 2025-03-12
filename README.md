@@ -8,8 +8,8 @@
 <a href="https://rkddusen.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=htmx&logoColor=white"/></a>
 <a href="https://duyaan.tistory.com/"><img src="https://img.shields.io/badge/Tech_Blog-eb531f?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
 <a href="mailto:somedding6363@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=NAVER&logoColor=FFFFFF"/></a>
-<p>I'm Frontend Developer 👨‍💻</p>
-<p>I want to <b>"Moving towards Users"</b> 🚀</p>
+<p>I'm a Frontend Developer 👨‍💻</p>
+<p>My goal is <b>'Moving towards Users'</b> 🚀</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkddusen)](https://github.com/rkddusen/github-readme-stats)
 [![Solved.ac
