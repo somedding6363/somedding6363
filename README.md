@@ -37,28 +37,27 @@
 
 ## 🎞️ Projects
 
+- Kuphil Web - Team Leader/Frontend Developer ( [Link](https://www.kuphil.com) / [Git](https://github.com/Choiheeju59/kuphilweb_v2) )
+  > 건국대학교 아마추어 오케스트라 동아리 홈페이지
 <p>
   <img width="360" alt="Image" src="https://github.com/user-attachments/assets/c3422982-152f-4928-9af3-5204b2af8191" />
 </p>
 
-- Kuphil Web - Team Leader/Frontend Developer ( [Link](https://www.kuphil.com) / [Git](https://github.com/Choiheeju59/kuphilweb_v2) )
-  > 건국대학교 아마추어 오케스트라 동아리 홈페이지
-
 <br/>
+
+- Color, me - Personal Project ( [Link](https://chromewebstore.google.com/detail/color-me/ldcmnbbjcbciolddfffpfghlcgnogacp?hl=ko&utm_source=ext_sidebar) / [Git](https://github.com/rkddusen/ColorMe))
+  > 색상 조합 서비스(크롬 익스텐션)
 <p>
   <img width="360" alt="Image" src="https://github.com/user-attachments/assets/f3c1638d-2167-4ed9-9f4a-14e417242af5" />
 </p>
 
-- Color, me - Personal Project ( [Link](https://chromewebstore.google.com/detail/color-me/ldcmnbbjcbciolddfffpfghlcgnogacp?hl=ko&utm_source=ext_sidebar) / [Git](https://github.com/rkddusen/ColorMe))
-  > 색상 조합 서비스(크롬 익스텐션)
-
 <br/>
-<p>
-  <img width="360" alt="Image" src="https://github.com/user-attachments/assets/c6fc6c12-ef8a-4bc9-96ec-e2ede7c9a27d" />
-</p>
 
 - Soool with wine (on Progress) - Frontend Developer ( [Git](https://github.com/rkddusen/soool_wine_fe) )
   > 와인 서비스
+<p>
+  <img width="360" alt="Image" src="https://github.com/user-attachments/assets/c6fc6c12-ef8a-4bc9-96ec-e2ede7c9a27d" />
+</p>
 
 ## 👨‍🎓 Education
 
