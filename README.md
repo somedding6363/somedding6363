@@ -5,13 +5,13 @@
 ## 👋 It's me
 
 <a href="https://somedding.notion.site/"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
-<a href="https://rkddusen.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=htmx&logoColor=white"/></a>
+<a href="https://somedding6363.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=htmx&logoColor=white"/></a>
 <a href="https://duyaan.tistory.com/"><img src="https://img.shields.io/badge/Tech_Blog-eb531f?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
 <a href="mailto:somedding6363@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=NAVER&logoColor=FFFFFF"/></a>
 <p>I'm a Frontend Developer 👨‍💻</p>
 <p>My goal is <b>'Moving towards Users'</b> 🚀</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkddusen)](https://github.com/rkddusen/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=somedding6363)](https://github.com/somedding6363/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kxxn2yxxn)](https://solved.ac/kxxn2yxxn)
 
@@ -33,7 +33,7 @@
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkddusen&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somedding6363&layout=compact)
 
 ## 🎞️ Projects
 
@@ -45,7 +45,7 @@
 
 <br/>
 
-- Color, me - Personal Project ( [Link](https://chromewebstore.google.com/detail/color-me/ldcmnbbjcbciolddfffpfghlcgnogacp?hl=ko&utm_source=ext_sidebar) / [Git](https://github.com/rkddusen/ColorMe))
+- Color, me - Personal Project ( [Link](https://chromewebstore.google.com/detail/color-me/ldcmnbbjcbciolddfffpfghlcgnogacp?hl=ko&utm_source=ext_sidebar) / [Git](https://github.com/somedding6363/ColorMe))
   > 색상 조합 서비스(크롬 익스텐션)
 <p>
   <img width="360" alt="Image" src="https://github.com/user-attachments/assets/f3c1638d-2167-4ed9-9f4a-14e417242af5" />
@@ -53,7 +53,7 @@
 
 <br/>
 
-- Soool with wine (on Progress) - Frontend Developer ( [Git](https://github.com/rkddusen/soool_wine_fe) )
+- Soool with wine (on Progress) - Frontend Developer ( [Git](https://github.com/somedding6363/soool_wine_fe) )
   > 와인 서비스
 <p>
   <img width="360" alt="Image" src="https://github.com/user-attachments/assets/c6fc6c12-ef8a-4bc9-96ec-e2ede7c9a27d" />
