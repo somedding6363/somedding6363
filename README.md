@@ -9,7 +9,7 @@
 <a href="https://duyaan.tistory.com/"><img src="https://img.shields.io/badge/Tech_Blog-eb531f?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
 <a href="mailto:somedding6363@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=NAVER&logoColor=FFFFFF"/></a>
 <p>I'm a Frontend Developer 👨‍💻</p>
-<p>My goal is <b>'Moving towards Users'</b> 🚀</p>
+<p>My goal is <b>'Team-first Process, User-first Result'</b> 🚀</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=somedding6363)](https://github.com/somedding6363/github-readme-stats)
 [![Solved.ac
