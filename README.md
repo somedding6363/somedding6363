@@ -6,7 +6,7 @@
 
 <a href="https://somedding.notion.site/"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
 <a href="https://somedding6363.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=htmx&logoColor=white"/></a>
-<a href="https://duyaan.tistory.com/"><img src="https://img.shields.io/badge/Tech_Blog-eb531f?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
+<a href="https://velog.io/@somedding/posts"><img src="https://img.shields.io/badge/Tech_Blog-20C997?style=flat-square&logo=Velog&logoColor=ffffff"/></a>
 <a href="mailto:somedding6363@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=NAVER&logoColor=FFFFFF"/></a>
 <p>I'm a Frontend Developer 👨‍💻</p>
 <p>My goal is <b>'Team-first Process, User-first Result'</b> 🚀</p>
